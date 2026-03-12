@@ -1,6 +1,6 @@
-# Hello World!
+# Hi there!
 
-My name is **Mykhailo**, I'm a Full-Stack developer from Ukraine, currently working on something interesting.
+My name is **Mykhailo**, I'm a Full-Stack developer
 
 ## My certifications:
 
