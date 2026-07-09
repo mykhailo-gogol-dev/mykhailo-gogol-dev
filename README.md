@@ -1,6 +1,6 @@
 # Hi there!
 
-My name is **Mykhailo**, I'm a Full-Stack developer
+My name is **Mykhailo**
 
 ## My certifications:
 
